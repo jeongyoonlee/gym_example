@@ -1,0 +1,5 @@
+numpy
+tqdm
+keras
+tensorflow
+gym[box2d]
